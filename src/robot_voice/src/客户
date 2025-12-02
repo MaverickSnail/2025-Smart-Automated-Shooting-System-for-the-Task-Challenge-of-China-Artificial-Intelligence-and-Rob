@@ -1,0 +1,26 @@
+(py38) abot@abot-robot:~$ rosrun robot_voice tts_subscribe
+
+###########################################################################
+## 语音合成（Text To Speech，TTS）技术能够自动将任意文字实时转换为连续的 ##
+## 自然语音，是一种能够在任何时间、任何地点，向任何人提供语音信息服务的  ##
+## 高效便捷手段，非常符合信息时代海量数据、动态更新和个性化查询的需求。  ##
+###########################################################################
+
+I heard :您好
+开始合成 ...
+正在合成 ...
+ctts1PdHHBHYTliZPA8daat7652aWldkIM>ctts1PdHHBHYTliZPA8daat7652aWldkIM
+QTTSAudioGet failed, error code: 10407.
+text_to_speech failed, error code: 10407.
+合成完毕
+do_connect: could not connect to socket
+connect: No such file or directory
+Failed to open LIRC support. You will not be able to use your remote control.
+
+
+I heard :您好
+开始合成 ...
+QTTSTextPut failed, error code: 10106.
+text_to_speech failed, error code: 10106 
+
+

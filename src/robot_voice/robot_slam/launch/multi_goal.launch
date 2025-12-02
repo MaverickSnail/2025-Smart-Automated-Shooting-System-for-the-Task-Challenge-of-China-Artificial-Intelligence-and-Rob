@@ -1,0 +1,14 @@
+<launch>
+  <node name="multi_goal" pkg="robot_slam" type="trave_points.py" output="screen">
+  <!--USE competetion_better.py,USE competetion_better.py,USE competetition_better.py!!!!-->
+      <param name="goalListX" value="   0.24,   1.0,  0.4,  2.0,  2.5,    2.5,   2.0,    1.0,  0.5,  2.95,   2.95,  0.30,  0.05"/>
+      <param name="goalListY" value="  -0.35,  -0.4,  -1.2, -0.4, -1.0,  -2.0,   -2.5,  -2.5,  -2.0,  -0.15, -2.95, -2.95, -3.20"/>
+      <param name="goalListYaw" value=" 180.0,  0.0,   0.0,  0.0,  0.0,   0.0,   0.0,    0.0,   0.0,   0.0,   0.0,   180.0, 180.0"/>
+
+      <!--[0]is the first task information point
+      [1][2][3][4][5][6][7][8] are the eight target points
+      [10] is NO.3 task information point
+      [11] is NO.4 task information point
+             -->
+  </node>
+</launch>

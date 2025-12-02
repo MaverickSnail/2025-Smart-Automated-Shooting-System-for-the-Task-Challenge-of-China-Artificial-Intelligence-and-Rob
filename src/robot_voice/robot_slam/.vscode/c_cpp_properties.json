@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/abot/robot_ws/devel/include/**",
+        "/home/abot/lidar_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/abot/lidar_ws/src/abot_base/include/**",
+        "/home/abot/robot_ws/src/abot_base/abot_bringup/include/**",
+        "/home/abot/robot_ws/src/abot_base/abot_imu/include/**",
+        "/home/abot/lidar_ws/src/abot_slam/include/**",
+        "/home/abot/robot_ws/src/cam_track/include/**",
+        "/home/abot/abot_vision/src/color_pkg/include/**",
+        "/home/abot/abot_vision/src/face_pkg/include/**",
+        "/home/abot/robot_ws/src/abot_find/include/**",
+        "/home/abot/lidar_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/abot/lidar_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/abot/lidar_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/abot/lidar_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/abot/robot_ws/src/abot_base/lidar_filters/include/**",
+        "/home/abot/lidar_ws/src/lidar_follower/include/**",
+        "/home/abot/abot_vision/src/opencv_demo/include/**",
+        "/home/abot/robot_ws/src/robot_slam/include/**",
+        "/home/abot/robot_ws/src/robot_voice/include/**",
+        "/home/abot/robot_ws/src/shoot_cmd/include/**",
+        "/home/abot/abot_vision/src/track_tag/include/**",
+        "/home/abot/abot_vision/src/tracker_pkg/include/**",
+        "/home/abot/robot_ws/src/user_demo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
