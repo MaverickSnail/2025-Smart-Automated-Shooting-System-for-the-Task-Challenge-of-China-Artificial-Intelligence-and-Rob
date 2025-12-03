@@ -5,7 +5,6 @@
 ![](https://github.com/MaverickSnail/2025-Smart-Automated-Shooting-System-for-the-Task-Challenge-of-China-Artificial-Intelligence-and-Rob/blob/main/image/%E5%9B%BE%E7%89%871.png)
 机器人需要从起点出发，识别任务信息图像并根据图像指示前往相应的目标点，完成语音播报后继续识别下一个任务信息图像，直到到达终点区域并进行最终的语音播报。整个过程中，机器人需要自主导航、避障、图像识别和语音播报。
 软件方面，我们使用ROS（Robot Operating System）作为系统的中间件，以实现模块化和可扩展的设计。ROS提供了一系列工具和库，支持机器人控制、传感器数据处理、通信和调试等功能。
-![](https://github.com/MaverickSnail/2025-Smart-Automated-Shooting-System-for-the-Task-Challenge-of-China-Artificial-Intelligence-and-Rob/blob/main/image/%E5%9B%BE%E7%89%875.png)}
 2.2 ROS系统在智能车中的作用
 ROS在ABOT-M1智能车系统中的主要作用如下：
 
