@@ -1,5 +1,4 @@
 建模图片
-！[](https://github.com/MaverickSnail/2025-Smart-Automated-Shooting-System-for-the-Task-Challenge-of-China-Artificial-Intelligence-and-Rob/blob/main/image/%E5%9B%BE%E7%89%874.png)
 ![](https://github.com/MaverickSnail/2025-Smart-Automated-Shooting-System-for-the-Task-Challenge-of-China-Artificial-Intelligence-and-Rob/blob/main/image/%E5%9B%BE%E7%89%875.png)}
 AR码识别图片
 ！[](https://github.com/MaverickSnail/2025-Smart-Automated-Shooting-System-for-the-Task-Challenge-of-China-Artificial-Intelligence-and-Rob/blob/main/image/%E5%9B%BE%E7%89%876.png)
